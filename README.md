@@ -10,5 +10,7 @@ Dodatkowo testy przeprowadzono na urządzeniu mobilnym Huawei P30 Lite (Android 
 z wykorzystaniem poniższych przeglądarek:
 - Google Chrome 94.0.4606.85,
 - Mozilla Firefox 93.1.0.
+
 Każda wymieniona scenariuszu testowym funkcjonalność została przetestowana. 
+
 Wykryto łącznie …. defektów.
