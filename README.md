@@ -1,16 +1,21 @@
 # AlpinInstal_testy
-Strona internetowa http://alpininstal.com/alpinig347/ służy udostępnieniu informacji o działalności firmy zajmującej się usługami alpinistycznymi.
-Zakres testów został ujęty w dokumencie zawierającym scenariusze testowe (AlpinInstal – scenariusze testowe.pdf).
-Testy przeprowadzono na komputerze z systemem Windows 10 (wersja 21H1)
-Do wykonania testów wykorzystano następujące przeglądarki:
-- Google Chrome 94.0.4606.81 (Oficjalna wersja) (64-bitowa),
-- Mozilla Firefox 93.0 (64-bitowa),
-- Microsoft Edge 94.0.992.50 (Oficjalna kompilacja) (64-bitowa).
-Dodatkowo testy przeprowadzono na urządzeniu mobilnym Huawei P30 Lite (Android 10) 
-z wykorzystaniem poniższych przeglądarek:
-- Google Chrome 94.0.4606.85,
-- Mozilla Firefox 93.1.0.
+W niniejszym repozytorium przedstawiono scenariusze testowe do wykonania manualnych testów funkcjonalnych strony internetowej firmy AlpinInstal (http://alpininstal.com/alpinig347/). Wyodrębnione zostały przypadki testowe występujące globalnie oraz na każdej podstronie. 
+Do każdego przypadku testowego podane zostały:
+- nazwa funkcjonalności (testu),
+- waga,
+- kroki wykonania,
+- oczekiwany rezultat.
 
-Każda wymieniona scenariuszu testowym funkcjonalność została przetestowana. 
+Raport z testów funkcjonalnych firmy AlpinInstal zawiera opis celu i zakresu testów, środowisk testowych oraz metryki. 
+Wykryte defekty przedstawiono za pomocą schematu:
+1. Numer defektu (ID),
+2. Tytuł defektu,
+3. Odesłanie do scenariusza testowego (plik AlpinInstal – scenariusze testowe.pdf),
+4. Przeglądarka, w której występuje defekt,
+5. Link lub nazwa podstrony,
+6. Opis zachowania,
+7. Waga defektu,
+8. Załącznik w postaci screenshota (opcjonalnie).
+Ostatnia część raportu zawiera rekomendacje działań mogących usprawnić działanie strony oraz zwiększyć jej atrakcyjność, a także krótkie podsumowanie.
 
-Wykryto łącznie …. defektów.
+Życzę miłej lektury.
