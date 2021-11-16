@@ -16,6 +16,7 @@ Wykryte defekty przedstawiono za pomocą schematu:
 6. Opis zachowania,
 7. Waga defektu,
 8. Załącznik w postaci screenshota (opcjonalnie).
+
 Ostatnia część raportu zawiera rekomendacje działań mogących usprawnić działanie strony oraz zwiększyć jej atrakcyjność, a także krótkie podsumowanie.
 
 Życzę miłej lektury.
