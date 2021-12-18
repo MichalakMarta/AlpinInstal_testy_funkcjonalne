@@ -1,4 +1,4 @@
-# AlpinInstal_testy
+# AlpinInstal - testy funkcjonalne
 W niniejszym repozytorium przedstawiono scenariusze testowe do wykonania manualnych testów funkcjonalnych strony internetowej firmy AlpinInstal (http://alpininstal.com/alpinig347/). Wyodrębnione zostały przypadki testowe występujące globalnie oraz na każdej podstronie. 
 Do każdego przypadku testowego podane zostały:
 - nazwa funkcjonalności (testu),
